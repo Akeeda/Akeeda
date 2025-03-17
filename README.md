@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am learning how to use GitHub now. After I master it, I will work on my data analysis projects using GitHub.
 <!--
 **Akeeda/Akeeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
