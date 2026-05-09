@@ -1,17 +1,65 @@
-## Hi there 👋
-I am learning how to use GitHub now. After I master it, I will work on my data analysis projects using GitHub.
-<!--
-**Akeeda/Akeeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!DOCTYPE html>
+<html lang="en">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vivian | Data Analyst Portfolio</title>
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+  <h1>Vivian</h1>
+  <p>Data Analyst | Tableau | Power BI | SQL</p>
+</header>
+
+<section class="about">
+  <h2>About Me</h2>
+  <p>
+    Aspiring Data Analyst passionate about data visualization,
+    business intelligence, and storytelling through dashboards.
+  </p>
+</section>
+
+<section class="projects">
+
+  <h2>Projects</h2>
+
+  <div class="project-card">
+    <h3>🚲 Bike Share Analysis Dashboard</h3>
+
+    <p>
+      Tableau dashboard analyzing rider behavior,
+      peak usage periods, and station demand trends.
+    </p>
+
+    <a href="YOUR_TABLEAU_LINK" target="_blank">
+      View Dashboard
+    </a>
+  </div>
+
+</section>
+
+<section class="skills">
+  <h2>Skills</h2>
+
+  <ul>
+    <li>SQL</li>
+    <li>Tableau</li>
+    <li>Power BI</li>
+    <li>Excel</li>
+    <li>Data Visualization</li>
+  </ul>
+</section>
+
+<footer>
+  <p>© 2026 Vivian</p>
+</footer>
+
+</body>
+</html>
 
