@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![olga](https://github.com/user-attachments/assets/e8acdeda-994a-4eb3-b7b7-7a7777e11a98)
-Golden Receiver
+
